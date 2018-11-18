@@ -1,2 +1,2 @@
 # re
-manyawelt.re.github.io
+manyawelt.github.io
