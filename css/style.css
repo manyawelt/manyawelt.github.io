@@ -1,1 +1,8 @@
-
+	      
+	body {
+		background: #000 url(/img/background.png); /* Фоновый цвет и фоновый рисунок*/
+		color: #fff; /*Цвет текста на странице*/
+                background-repeat: repeat-y;;   
+ 		background-position: top center;
+  		background-size: cover;
+}
